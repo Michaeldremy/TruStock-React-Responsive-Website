@@ -31,3 +31,26 @@ export const FootLinksWrapper = styled.div`
     flex-direction: column;
   }
 `
+
+export const FooterLinkItems = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 16px;
+  text-align: left;
+  width: 160px;
+  box-sizing: border-box;
+  color: #fff;
+
+  @media screen and (max-width: 420px){
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+  }
+`
+
+export const FooterLinkTitle = styled.h1`
+  font-size: 14px;
+  margin-bottom: 16px;
+`
+
