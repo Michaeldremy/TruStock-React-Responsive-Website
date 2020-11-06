@@ -4,8 +4,8 @@ import { Link as LinkScroll } from "react-scroll";
 
 export const Nav = styled.nav`
   background: ${({ scrollNav }) => (scrollNav ? "#000" : "transparent")};
-  height: 80px;
-  margin-top: -80px;
+  height: 100px;
+  margin-top: -100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -82,7 +82,7 @@ export const NavLinks = styled(LinkScroll)`
   cursor: pointer;
 
   /* Adding border-bottom to the current tab we are on */
-  &.actice {
+  &.active {
     border-bottom: 3px solid #eaa30c;
   }
 `;
