@@ -1,9 +1,9 @@
-import styled from 'styled-components'
-import { Link as LinkRouter } from 'react-router-dom';
-import { Link as LinkScroll } from 'react-scroll';
+import styled from "styled-components";
+import { Link as LinkRouter } from "react-router-dom";
+import { Link as LinkScroll } from "react-scroll";
 
 export const Nav = styled.nav`
-  background: #000;
+  background: ${({ scrollNav }) => (scrollNav ? "#000" : "transparent")};
   height: 80px;
   margin-top: -80px;
   display: flex;
@@ -17,7 +17,7 @@ export const Nav = styled.nav`
   @media screen and (max-width: 960px) {
     transition: 0.8s all ease;
   }
-`
+`;
 
 export const NavBarContainer = styled.div`
   display: flex;
@@ -27,7 +27,7 @@ export const NavBarContainer = styled.div`
   width: 100%;
   padding: 0 24px;
   max-width: 1100px;
-`
+`;
 
 export const NavLogo = styled(LinkRouter)`
   color: #fff;
@@ -39,7 +39,7 @@ export const NavLogo = styled(LinkRouter)`
   margin-left: 24px;
   font-weight: bold;
   text-decoration: none;
-`
+`;
 
 export const MobileIcon = styled.div`
   display: none;
@@ -54,9 +54,9 @@ export const MobileIcon = styled.div`
     cursor: pointer;
     color: #fff;
   }
-`
+`;
 
-export const NavMenu  = styled.ul`
+export const NavMenu = styled.ul`
   display: flex;
   align-items: center;
   list-style: none;
@@ -66,11 +66,11 @@ export const NavMenu  = styled.ul`
   @media screen and (max-width: 768px) {
     display: none;
   }
-`
+`;
 
 export const NavItem = styled.li`
   height: 80px;
-`
+`;
 
 export const NavLinks = styled(LinkScroll)`
   color: #fff;
@@ -85,7 +85,7 @@ export const NavLinks = styled(LinkScroll)`
   &.actice {
     border-bottom: 3px solid #eaa30c;
   }
-`
+`;
 
 export const NavBtn = styled.nav`
   display: flex;
@@ -94,7 +94,7 @@ export const NavBtn = styled.nav`
   @media screen and (max-width: 768px) {
     display: none;
   }
-`
+`;
 
 export const NavBtnLink = styled(LinkRouter)`
   border-radius: 50px;
@@ -114,4 +114,4 @@ export const NavBtnLink = styled(LinkRouter)`
     background: #fff;
     color: #010606;
   }
-`
+`;
