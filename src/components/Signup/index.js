@@ -22,9 +22,7 @@ const SignUp = () => {
           <FormContent>
             <Form action="#">
               <FormH1>Create a new Account</FormH1>
-              <FormLabel htmlFor="for">Username</FormLabel>
-              <FormInput type="text" required />
-              <FormLabel htmlFor="for">email</FormLabel>
+              <FormLabel htmlFor="for">Email</FormLabel>
               <FormInput type="email" required />
               <FormLabel htmlFor="for">Password</FormLabel>
               <FormInput type="password" required />
