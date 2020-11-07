@@ -10,30 +10,32 @@ import {
   FormLabel,
   FormInput,
   FormButton,
-  SignUpText
-} from "./SigninElements";
+  SignInText
+} from "../Signin/SigninElements";
 
-const SignIn = () => {
+const SignUp = () => {
   return (
-    <div>
+    <>
       <Container>
         <FormWrap>
           <Icon to="/">TruStock</Icon>
           <FormContent>
             <Form action="#">
-              <FormH1>Sign in to your account</FormH1>
-              <FormLabel htmlFor="for">Email</FormLabel>
+              <FormH1>Create a new Account</FormH1>
+              <FormLabel htmlFor="for">Username</FormLabel>
+              <FormInput type="text" required />
+              <FormLabel htmlFor="for">email</FormLabel>
               <FormInput type="email" required />
               <FormLabel htmlFor="for">Password</FormLabel>
               <FormInput type="password" required />
-              <FormButton type="submit">Continue</FormButton>
-              <SignUpText href="/signup">Don't have account?</SignUpText>
+              <FormButton type="submit">Sign Up</FormButton>
+              <SignInText href="/signin">Already registered?</SignInText>
             </Form>
           </FormContent>
         </FormWrap>
       </Container>
-    </div>
+    </>
   );
 };
 
-export default SignIn;
+export default SignUp;

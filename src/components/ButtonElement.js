@@ -10,6 +10,7 @@ export const Button = styled(LinkScroll)`
   font-size: ${({fontBig}) => (fontBig ? '20px' : '16px')};
   outline: none;
   border: none;
+  text-decoration: none;
   cursor: pointer;
   display: flex;
   justify-content: center;

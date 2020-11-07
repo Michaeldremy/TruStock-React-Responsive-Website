@@ -97,9 +97,18 @@ export const FormButton = styled.button`
   cursor: pointer;
 `;
 
-export const Text = styled.span`
+export const SignUpText = styled.a`
   text-align: center;
   margin-top: 24px;
   color: #fff;
   font-size: 14px;
+  text-decoration: none;
 `;
+
+export const SignInText = styled.a`
+  text-align: center;
+  margin-top: 24px;
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+`
