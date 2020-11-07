@@ -77,3 +77,27 @@ export const FormH1 = styled.h1`
   font-weight: 400;
   text-align: center;
 `
+
+export const FormInput = styled.input`
+  padding: 16px 16px;
+  margin-bottom: 32px;
+  border: none;
+  border-radius: 4px;
+`
+
+export const FormButton = styled.button`
+  background: #eaa30c;
+  padding: 16px 0;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+`
+
+export const Text = styled.span`
+  text-align: center;
+  margin-top: 24px;
+  color: #fff;
+  font-size: 14px;
+`
