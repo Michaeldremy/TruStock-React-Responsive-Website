@@ -73,7 +73,7 @@ const NavBar = ({ toggle }) => {
                 <NavLinks
                   to="services"
                   smooth={true}
-                  duration={1500}
+                  duration={1000}
                   spy={true}
                   exact="true"
                   offset={-80}
@@ -85,7 +85,7 @@ const NavBar = ({ toggle }) => {
                 <NavLinks
                   to="signup"
                   smooth={true}
-                  duration={1500}
+                  duration={1000}
                   spy={true}
                   exact="true"
                   offset={-80}

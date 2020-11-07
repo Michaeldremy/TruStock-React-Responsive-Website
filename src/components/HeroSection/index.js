@@ -39,7 +39,7 @@ const HeroSection = () => {
             primary="true"
             dark="true"
             smooth={true}
-            duration={1500}
+            duration={1000}
             spy={true}
             exact="true"
             offset={-80}
