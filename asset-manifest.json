@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/TruStock-React-Responsive-Website/static/css/main.6ae68806.chunk.css",
-    "main.js": "/TruStock-React-Responsive-Website/static/js/main.3a83d145.chunk.js",
-    "main.js.map": "/TruStock-React-Responsive-Website/static/js/main.3a83d145.chunk.js.map",
-    "runtime-main.js": "/TruStock-React-Responsive-Website/static/js/runtime-main.abcaef45.js",
-    "runtime-main.js.map": "/TruStock-React-Responsive-Website/static/js/runtime-main.abcaef45.js.map",
-    "static/js/2.9da51d60.chunk.js": "/TruStock-React-Responsive-Website/static/js/2.9da51d60.chunk.js",
-    "static/js/2.9da51d60.chunk.js.map": "/TruStock-React-Responsive-Website/static/js/2.9da51d60.chunk.js.map",
-    "index.html": "/TruStock-React-Responsive-Website/index.html",
-    "precache-manifest.03be52b73ec61ae99831aa34164ca890.js": "/TruStock-React-Responsive-Website/precache-manifest.03be52b73ec61ae99831aa34164ca890.js",
-    "service-worker.js": "/TruStock-React-Responsive-Website/service-worker.js",
-    "static/css/main.6ae68806.chunk.css.map": "/TruStock-React-Responsive-Website/static/css/main.6ae68806.chunk.css.map",
-    "static/js/2.9da51d60.chunk.js.LICENSE.txt": "/TruStock-React-Responsive-Website/static/js/2.9da51d60.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/TruStock-React-Responsive-Website/static/media/svg-1.51117786.svg",
-    "static/media/svg-2.svg": "/TruStock-React-Responsive-Website/static/media/svg-2.7615d69b.svg",
-    "static/media/svg-3.svg": "/TruStock-React-Responsive-Website/static/media/svg-3.f69d3b79.svg",
-    "static/media/video.mp4": "/TruStock-React-Responsive-Website/static/media/video.89ba85ac.mp4"
+    "main.css": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/css/main.6ae68806.chunk.css",
+    "main.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/main.ee511d34.chunk.js",
+    "main.js.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/main.ee511d34.chunk.js.map",
+    "runtime-main.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/runtime-main.a8662cd5.js",
+    "runtime-main.js.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/runtime-main.a8662cd5.js.map",
+    "static/js/2.1374de05.chunk.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/2.1374de05.chunk.js",
+    "static/js/2.1374de05.chunk.js.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/2.1374de05.chunk.js.map",
+    "index.html": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/index.html",
+    "precache-manifest.fec6d56ed1546e9fcd6b8ac667de4d2f.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/precache-manifest.fec6d56ed1546e9fcd6b8ac667de4d2f.js",
+    "service-worker.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/service-worker.js",
+    "static/css/main.6ae68806.chunk.css.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/css/main.6ae68806.chunk.css.map",
+    "static/js/2.1374de05.chunk.js.LICENSE.txt": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/2.1374de05.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/svg-1.51117786.svg",
+    "static/media/svg-2.svg": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/svg-2.7615d69b.svg",
+    "static/media/svg-3.svg": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/svg-3.f69d3b79.svg",
+    "static/media/video.mp4": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/video.89ba85ac.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.abcaef45.js",
-    "static/js/2.9da51d60.chunk.js",
+    "static/js/runtime-main.a8662cd5.js",
+    "static/js/2.1374de05.chunk.js",
     "static/css/main.6ae68806.chunk.css",
-    "static/js/main.3a83d145.chunk.js"
+    "static/js/main.ee511d34.chunk.js"
   ]
 }
