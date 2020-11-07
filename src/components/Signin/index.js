@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 import {
   Container,
@@ -27,7 +28,7 @@ const SignIn = () => {
               <FormLabel htmlFor="for">Password</FormLabel>
               <FormInput type="password" required />
               <FormButton type="submit">Continue</FormButton>
-              <SignUpText to="/signup">Don't have account?</SignUpText>
+              <SignUpText as="a" href="/signup">Don't have account?</SignUpText>
             </Form>
           </FormContent>
         </FormWrap>
