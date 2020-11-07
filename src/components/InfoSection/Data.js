@@ -32,6 +32,25 @@ export const homeObjTwo = {
   darkText: true,
 }
 
+// For video explanation
+
+// export const homeObjTwo = {
+//   id: 'discover',
+//   lightBg: false,
+//   lightText: true,
+//   lightTextDesc: true,
+//   topLine: 'Unlimited Access',
+//   headline: 'Login to your account at any time',
+//   description: 'We have you covered no matter where you are located. All you need is internet connection and a phone or computer.',
+//   buttonLabel: 'Learn More',
+//   imgStart: false,
+//   img: require('../../images/svg-2.svg'),
+//   alt: 'Piggybank',
+//   dark: true,
+//   primary: true,
+//   darkText: false,
+// }
+
 export const homeObjThree = {
   id: 'signup',
   lightBg: true,
