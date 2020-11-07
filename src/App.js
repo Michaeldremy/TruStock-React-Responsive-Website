@@ -8,7 +8,7 @@ import SignUpPage from './pages/signup';
 function App() {
   return (
     <div>
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <Switch>
           <Route path="/" component={Home} exact/>
           <Route path="/signup" component={SignUpPage} exact />

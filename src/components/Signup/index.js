@@ -29,7 +29,7 @@ const SignUp = () => {
               <FormLabel htmlFor="for">Password</FormLabel>
               <FormInput type="password" required />
               <FormButton type="submit">Sign Up</FormButton>
-              <SignInText href="/signin">Already registered?</SignInText>
+              <SignInText to="/signin">Already registered?</SignInText>
             </Form>
           </FormContent>
         </FormWrap>

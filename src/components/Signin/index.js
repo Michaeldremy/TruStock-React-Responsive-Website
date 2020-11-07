@@ -27,7 +27,7 @@ const SignIn = () => {
               <FormLabel htmlFor="for">Password</FormLabel>
               <FormInput type="password" required />
               <FormButton type="submit">Continue</FormButton>
-              <SignUpText href="/signup">Don't have account?</SignUpText>
+              <SignUpText to="/signup">Don't have account?</SignUpText>
             </Form>
           </FormContent>
         </FormWrap>
