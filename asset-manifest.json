@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/css/main.6ae68806.chunk.css",
-    "main.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/main.ee511d34.chunk.js",
-    "main.js.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/main.ee511d34.chunk.js.map",
-    "runtime-main.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/runtime-main.a8662cd5.js",
-    "runtime-main.js.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/runtime-main.a8662cd5.js.map",
-    "static/js/2.1374de05.chunk.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/2.1374de05.chunk.js",
-    "static/js/2.1374de05.chunk.js.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/2.1374de05.chunk.js.map",
-    "index.html": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/index.html",
-    "precache-manifest.fec6d56ed1546e9fcd6b8ac667de4d2f.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/precache-manifest.fec6d56ed1546e9fcd6b8ac667de4d2f.js",
-    "service-worker.js": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/service-worker.js",
-    "static/css/main.6ae68806.chunk.css.map": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/css/main.6ae68806.chunk.css.map",
-    "static/js/2.1374de05.chunk.js.LICENSE.txt": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/js/2.1374de05.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/svg-1.51117786.svg",
-    "static/media/svg-2.svg": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/svg-2.7615d69b.svg",
-    "static/media/svg-3.svg": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/svg-3.f69d3b79.svg",
-    "static/media/video.mp4": "http://michaeldremy.github.io/TruStock-React-Responsive-Website/static/media/video.89ba85ac.mp4"
+    "main.css": "/static/css/main.6ae68806.chunk.css",
+    "main.js": "/static/js/main.3a83d145.chunk.js",
+    "main.js.map": "/static/js/main.3a83d145.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00f822c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00f822c3.js.map",
+    "static/js/2.3b4379ba.chunk.js": "/static/js/2.3b4379ba.chunk.js",
+    "static/js/2.3b4379ba.chunk.js.map": "/static/js/2.3b4379ba.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0878a0c840c21c85a94092109160a6ce.js": "/precache-manifest.0878a0c840c21c85a94092109160a6ce.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6ae68806.chunk.css.map": "/static/css/main.6ae68806.chunk.css.map",
+    "static/js/2.3b4379ba.chunk.js.LICENSE.txt": "/static/js/2.3b4379ba.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/static/media/svg-1.51117786.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.7615d69b.svg",
+    "static/media/svg-3.svg": "/static/media/svg-3.f69d3b79.svg",
+    "static/media/video.mp4": "/static/media/video.89ba85ac.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8662cd5.js",
-    "static/js/2.1374de05.chunk.js",
+    "static/js/runtime-main.00f822c3.js",
+    "static/js/2.3b4379ba.chunk.js",
     "static/css/main.6ae68806.chunk.css",
-    "static/js/main.ee511d34.chunk.js"
+    "static/js/main.3a83d145.chunk.js"
   ]
 }
